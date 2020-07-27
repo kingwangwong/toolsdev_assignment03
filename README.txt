@@ -1,0 +1,1 @@
+I had to deviate from the proposal. Instead of a bevel function there is a choice of axis direction.
